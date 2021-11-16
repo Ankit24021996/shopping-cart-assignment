@@ -13,7 +13,7 @@ export const itemLabel = "Items";
 export const emailLabel = "Email";
 export const passwordLabel = "Password";
 
-// 404 error message
+// 404 error message new
 export const errorTitleLabel = "OOPS!";
 export const errorDescriptionLabel = "404- THE PAGE CAN'T BE FOUND.";
 export const goToHomeCtaLabel = "GO TO HOMEPAGE";
